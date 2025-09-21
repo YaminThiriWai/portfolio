@@ -8,7 +8,7 @@ const Certificates = () => {
       issuer: "Google Cloud",
       date: "2024",
       category: "Cloud & AI",
-      image: "/certificates/ChaiyoGCP.png",
+      image: "/portfolio/certificates/ChaiyoGCP.png",
       link: "https://lnkd.in/gBTKiXd3",
       description: "Completed 82 hands-on labs and earned 19 skill badges in Vertex AI, BigQuery, AI/ML, Data, and Security",
       featured: true,
@@ -19,7 +19,7 @@ const Certificates = () => {
       issuer: "South China University of Technology",
       date: "2024",
       category: "Education",
-      image: "/certificates/Yamin_Thiri_Wai_SCUT_Summer_School_Completion_2024.png",
+      image: "/portfolio/certificates/Yamin_Thiri_Wai_SCUT_Summer_School_Completion_2024.png",
       description: "Selected as one of 5 students to represent Ton Duc Thang University in international AI/ML program",
       skills: ["Machine Learning", "Large Language Models", "Prompt Engineering", "AI Applications"]
     },
@@ -28,7 +28,7 @@ const Certificates = () => {
       issuer: "Panyapiwat Institute of Management, Thailand",
       date: "2024",
       category: "Competition",
-      image: "/certificates/PimInterHackathon.png",
+      image: "/portfolio/certificates/PimInterHackathon.png",
       description: "Advanced to Semi-Final Round among international teams with AI-powered weather forecasting model",
       skills: ["AI Development", "Weather Forecasting", "Business Strategy", "International Collaboration"]
     },
@@ -37,7 +37,7 @@ const Certificates = () => {
         issuer: "Start Train Academy",
         date: "2024",
         category: "Competition",
-        image: "/certificates/powerbi.jpg", 
+        image: "/portfolio/certificates/powerbi.jpg", 
         link: "https://starttrain.edu.vn/du-an-cuoc-thi-the-next-analyst-challenge-4/",
         description: "Achieved Top 20 ranking and Judge's Choice Award for creating comprehensive Power BI dashboard with business insights and recommendations",
         skills: ["Power BI", "DAX", "Data Modeling", "Business Intelligence", "Data Visualization", "Analytics"]
@@ -48,7 +48,7 @@ const Certificates = () => {
       issuer: "Ho Chi Minh City Youth Union",
       date: "2023",
       category: "Volunteer & Leadership",
-      image: "/certificates/Yamin_Thiri_Wai_Volunteer_Award_2023_HCM_YouthUnion.png",
+      image: "/portfolio/certificates/Yamin_Thiri_Wai_Volunteer_Award_2023_HCM_YouthUnion.png",
       description: "Awarded for outstanding participation and organization in international volunteer activities during the 2023 summer volunteer campaign",
       skills: ["Leadership", "Community Service", "International Relations", "Project Management"]
     },
@@ -57,7 +57,7 @@ const Certificates = () => {
       issuer: "Ho Chi Minh Communist Youth Union - District 11",
       date: "2023",
       category: "Volunteer & Leadership",
-      image: "/certificates/Yamin_Thiri_Wai_ThankYouLetter_District11_2023.png",
+      image: "/portfolio/certificates/Yamin_Thiri_Wai_ThankYouLetter_District11_2023.png",
       description: "Received recognition for accompanying and supporting summer volunteer campaigns and programs in 2023",
       skills: ["Community Engagement", "Educational Outreach", "Volunteer Coordination", "Social Impact"]
     }
